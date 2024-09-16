@@ -1,0 +1,124 @@
+body{
+    background:url(../Downloads/369482806_281484954492598_8458380165743593542_n.jpg);
+    text-align: center;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.form-container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background: transparent;
+    align-items: center;
+    border: 3px solid rgba(200, 101, 209, 0.514);
+    border-radius: 80px;
+    backdrop-filter: blur(10px);
+    font-family: cursive;
+}
+.sign{
+    margin-top: 50px;
+    color:#ffffff
+}
+/*signup*/
+.input-name{
+    gap: 50px;
+    margin:auto;
+}
+.Name{
+    font-weight: 400;
+    padding: 6px 40px;
+    border: none;
+    border-radius: 50px;
+    background: rgb(255,255,255,0.274);
+    color:#ffffff;
+}
+.input-gmail{
+    justify-items: center;
+    margin:auto;
+}
+.email{
+    font-weight: 400;
+    padding: 6px 40px;
+    border: none;
+    border-radius: 50px;
+    background: rgb(255,255,255,0.274);
+    color:#ffffff;
+}
+.input-psw{
+    justify-items: center;
+}
+.Password{
+    font-weight: 400;
+    padding: 6px 40px;
+    border: none;
+    border-radius: 50px;
+    background: rgba(255, 255, 255, 0.274);
+    color:#ffffff;
+}
+.eye-open1{
+    position: absolute;
+    width: 890px;
+    top: 217px;
+    height: 350px;
+}
+.eye-slash1{
+    position: absolute;
+    width: 890px;
+    top: 217px;
+    height: 350px;
+}
+.input-Cpsw{
+    margin:auto;
+}
+.CPassword{
+    font-weight: 200;
+    padding: 6px 40px;
+    border: none;
+    border-radius: 50px;
+    background: rgb(255,255,255,0.274);
+    color:#ffffff;
+}
+.eye-open{
+    position: absolute;
+    width: 890px;
+    top: 265px;
+    height: 400px;
+}
+.eye-slash{
+    position: absolute;
+    width: 890px;
+    top: 265px;
+    height: 400px;
+}
+.btn-box{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+.btn { 
+   font-weight: 400;
+   padding: 6px 40px;
+   border: none;
+   border-radius: 50px;
+   background: rgba(255, 255, 255, 0.274);
+   cursor: pointer;
+   color:#f0f0f0;
+}
+.social-app{
+    display: flex;
+    gap: 250px;
+    margin: 110px 110px;
+} 
+.social-icon{
+    align-items: center;
+    color:#ddd6d6;
+}
+p{
+    color:#ffffff;
+
+}
